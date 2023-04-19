@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "179768283001",
+    "project_id": "b2c-ai-helper",
+    "storage_bucket": "b2c-ai-helper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179768283001:android:564ec4cf689a686ba1a9a8",
+        "android_client_info": {
+          "package_name": "dev.mvlikhachev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179768283001-4mbv3cntjligq1fbjpninhvdqcg8r3ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.mvlikhachev",
+            "certificate_hash": "c356e45d4dd58883d5d304381c191fcc9575daa5"
+          }
+        },
+        {
+          "client_id": "179768283001-nkrsjdi4h9dlmm5hdbme3nithv72p8r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfKzdkTEo5mq4uRJWOkTGu-ZSqSd4RLSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179768283001-nkrsjdi4h9dlmm5hdbme3nithv72p8r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
